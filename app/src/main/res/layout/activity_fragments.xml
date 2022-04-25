@@ -40,11 +40,6 @@
         android:layout_marginTop="621dp"
         android:layout_marginEnd="12dp"
         android:layout_marginBottom="50dp"
-<<<<<<< HEAD
-        android:backgroundTint="#FBC02D" />
 
+        android:backgroundTint="#FBC02D" />
 </RelativeLayout>
-=======
-        android:backgroundTint="#FBC02D"
-        android:text="Rules & Guideliness" />
->>>>>>> github/master
