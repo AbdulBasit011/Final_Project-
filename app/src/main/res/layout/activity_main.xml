@@ -99,7 +99,7 @@
             android:layout_gravity="right"
             android:padding="6dp"
             android:text="Forgot Password?"
-            android:textSize="15dp"></TextView>
+            android:textSize="16dp"></TextView>
 
         <Button
             android:id="@+id/button"
