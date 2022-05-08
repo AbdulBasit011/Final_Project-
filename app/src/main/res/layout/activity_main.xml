@@ -14,10 +14,10 @@
         android:layout_marginTop="4dp"
         android:text="PUBLIC TRAFFIC APPLICATION"
         android:textColor="@android:color/white"
-        android:textSize="30dp"
+        android:textSize="29dp"
         android:typeface="sans"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintHorizontal_bias="0.492"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
